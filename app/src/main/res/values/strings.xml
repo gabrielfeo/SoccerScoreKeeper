@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Soccer Score Keeper</string>
+    <string name = "team_a">Team A</string>
+    <string name = "team_b">Team B</string>
+    <string name = "symbol_minus">-</string>
+	<string name = "symbol_plus">+</string>
+	<string name = "goals">Goals</string>
+	<string name = "fouls">Fouls</string>
+    <string name = "button_reset">Reset</string>
+</resources>
